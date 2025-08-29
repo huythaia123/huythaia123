@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thai</h1>
-<h3 align="center">A passionate frontend developer from Vietname</h3>
+<h1 align="center">Hi 👋, I'm Huy Thai</h1>
+<h3 align="center">A passionate web developer & software developer from Vietname</h3>
 
 <p align="left">
     <img
@@ -84,7 +84,7 @@
     </a>
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
+            src="https://laravel.com/img/favicon/apple-touch-icon.png"
             alt="laravel"
             width="40"
             height="40"
@@ -108,7 +108,7 @@
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
         <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg"
+            src="https://nestjs.com/logo-small-gradient.d792062c.svg"
             alt="nestjs"
             width="40"
             height="40"
@@ -176,14 +176,6 @@
     &nbsp;<img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=huythaia123&show_icons=true&locale=en"
-        alt="huythaia123"
-    />
-</p>
-
-<p>
-    <img
-        align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=huythaia123&"
         alt="huythaia123"
     />
 </p>
